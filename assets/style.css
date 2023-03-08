@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+* {
+    text-align: center;
+    width: 1300px;
+    margin: auto;
+    color: aqua;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 65px;
+}
